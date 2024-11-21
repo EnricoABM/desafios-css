@@ -3,7 +3,7 @@
 # Reproduzindo a Listagem do YouTube com Grid Layout no CSS
 
 <div align="center">
-    <img src="docs/website-print.png" alt="Print do website" width="800px">
+    <img src="docs/website-Print.png" alt="Print do website" width="800px">
 </div>
 
 
